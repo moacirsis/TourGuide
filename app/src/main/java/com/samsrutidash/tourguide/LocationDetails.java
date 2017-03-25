@@ -1,8 +1,6 @@
 package com.samsrutidash.tourguide;
 
-/**
- * Created by samsrutidash on 6/29/2016.
- */
+
 public class LocationDetails {
     private String locationName;
     private String locationDesc;
